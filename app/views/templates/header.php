@@ -27,10 +27,7 @@
                             <a class="nav-link" href="<?= BASEURL; ?>/about">ABOUT</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Pricing</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+                            <a class="nav-link" href="<?= BASEURL; ?>/mahasiswa">Mahasiswa</a>
                         </li>
                     </ul>
                 </div>
